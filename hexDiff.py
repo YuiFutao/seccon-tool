@@ -1,3 +1,5 @@
+print('investigate 2 local files. plz type filename in me.')
+
 K = open("kitters.jpg", "rb").read()
 C = open("cattos.jpg", "rb").read()
 
